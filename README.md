@@ -6,9 +6,9 @@ Welcome to the AutoGen Agent Playground! This repository is a comprehensive coll
 
 ## Use Cases
 Currently, this repository covers the following use cases:
-- ### [AutoGen - Single Agent [News Retrieval]]():
+- ### [AutoGen - Single Agent [News Retrieval]](https://github.com/ritwickbhargav80/autogen-agent-playground/blob/54f0d099833b540fdedc0cf445f309e2b6425a87/Single%20Agent/News%20Retrieval/AutoGen_Single_Agent_%5BNews_Retrieval%5D.ipynb):
   
-   [![View in GitHub](https://img.shields.io/static/v1?message=View%20in%20GitHub&logo=GitHub&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)]()
+   [![View in GitHub](https://img.shields.io/static/v1?message=View%20in%20GitHub&logo=GitHub&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://github.com/ritwickbhargav80/autogen-agent-playground/blob/54f0d099833b540fdedc0cf445f309e2b6425a87/Single%20Agent/News%20Retrieval/AutoGen_Single_Agent_%5BNews_Retrieval%5D.ipynb)
    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j2p41uVumMU8YGHXKhKIRw2Dwb6Z2fgB)
    
    Here we have developed an AI agent using AutoGen that can automatically fetch the top 10 tech news headlines and content from TechCrunch using the NewsAPI(https://www.newsapi.org/). We'll be just providing it with the requirement as input while initiating the chat and the code generation, execution will be handled by AutoGen without any human intervention.
