@@ -1,5 +1,5 @@
 # Be an AI Commander: Build Your First AutoGen Agent to Fetch Tech News
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j2p41uVumMU8YGHXKhKIRw2Dwb6Z2fgB)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ritwickbhargav80/autogen-agent-playground/blob/main/Single%20Agent/News%20Retrieval/AutoGen_Single_Agent_%5BNews_Retrieval%5D.ipynb)
 
 ## Overview
 
