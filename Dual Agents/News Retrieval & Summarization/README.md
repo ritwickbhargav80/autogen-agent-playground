@@ -1,7 +1,7 @@
 # Ready Commander, to explore AutoGen's Multi-Agent Magic?
 [![Open in Colab]()
 
-![AutoGen News Retrieval & Summarization]()
+![AutoGen News Retrieval & Summarization](AutoGen%20MultiAgent%2News%2Briefing.png)
 
 ## Overview
 
